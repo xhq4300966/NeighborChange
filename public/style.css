@@ -1,0 +1,349 @@
+#_backgroundImage {
+    position: absolute;
+    align-content: center;
+    top: 7%;
+    left: 2%;
+    width: 96%;
+    opacity: 20%;
+    z-index: auto;
+  }
+
+  #_title {
+    position: absolute;
+    top: 16%;
+    left: 34%;
+    font-size: 50px;
+    z-index: auto;
+  }
+
+
+  #_description {
+    position: absolute;
+    font-size: 20px;
+    top: 43%;
+    left: 25%;
+    z-index: 300;
+    font-weight: 500;
+    font-family:-webkit-pictograph;
+  }
+
+  #_divBox {
+    position: absolute;
+    top: 50%;
+    left: 41.5%;
+    z-index: auto;
+  }
+
+
+  .project_text {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .project_button {
+    /* position: absolute;
+    top: 280px;
+    left: 92px; */
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:darkslategray;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    /* align-content: center; */
+  }
+
+
+  .project_email_input {
+    border-radius: 5px;
+  }
+  
+  #email_entered {
+    position: relative;
+    left:14%;
+  }
+
+  #enter_button{
+    position: absolute;
+    top: 125px;
+    left: 116px;
+  }
+
+#button_newusers {
+    background-color:rgb(75, 119, 119);
+
+    position: absolute;
+    top:526px;
+    left: 621px;
+}
+
+#_smallImage {
+    width: 20%;
+    position: absolute;
+    left: 490px;
+    top: 50px
+}
+
+
+#_hello_neighbor {
+    position: absolute;
+    z-index: 10;
+    opacity: 30%;
+    width: 75%;
+    left: 150px;
+    top: 20px;
+
+}
+
+#_titleRegister {
+    position: absolute;
+    left:300px;
+    top: 100px;
+    font-size: 50px;
+    z-index: 100;
+}
+
+#_registerBox {
+    position: absolute;
+    font-weight: 600;
+    left: 300px;
+    z-index: 100;
+    top: 220px;
+}
+
+#button_log {
+    position: absolute;
+    left: 415px;
+    z-index: 100;
+    top: 522px;
+
+}
+
+#_userImg {
+    position: absolute;
+    opacity: 40%;
+    width: 70%;
+    left:180px;
+    top: 50px;
+    z-index: 10;
+}
+
+#button_logoff {
+    position: absolute;
+    top: 50px;
+    left: 447px;
+    z-index:100;
+}
+
+#button_board {
+    position: absolute;
+    top: 50px;
+    left: 660px;
+    z-index:100;
+}
+
+#account_na {
+    position: absolute;
+    top: 125px;
+    left: 510px;
+    z-index:100;
+}
+
+#neigh_affiliate {
+    position: absolute;
+    top: 190px;
+    left: 410px;
+    z-index:100;
+}
+
+#button_neighbor {
+    position: relative;
+    top: -5px;
+    left: 70px;
+    z-index:100;
+}
+
+
+.font_weight {
+    font-weight: 600;
+}
+
+
+#myDIV {
+    position: absolute;
+    top: 290px;
+    left: 410px;
+    z-index:100;
+}
+
+#button_personal {
+    position: absolute;
+    top: 360px;
+    left: 500px;
+    z-index:100;
+}
+
+
+#button_list {
+    position: absolute;
+    top: 380px;
+    left: 570px;
+    z-index:100;
+    background-color:rgb(75, 119, 119);
+}
+
+#items_listed {
+    font-size: 18px;
+    position: absolute;
+    top: 455px;
+    left: 225px;
+    z-index:100;
+}
+
+
+#item_info {
+    position: absolute;
+    max-width: 730px;
+    top: 490px;
+    left: 192px;
+    z-index:100;
+    padding: 20px;
+    background-color:rgb(233, 233, 233);
+}
+
+#title_list {
+    position: absolute;
+    top: 430px;
+    left: 500px;
+    z-index:100;
+    font-size: 18px;
+    background-color:rgb(233, 233, 233);
+    padding:2px;
+    padding-left: 25px;    
+    padding-right: 25px;
+}
+
+
+#title_board {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    z-index:100;
+    font-size: 20px;
+}
+
+#title_hood {
+    position: absolute;
+    top: 140px;
+    left: 350px;
+    z-index:100;
+    font-size: 50px;
+}
+
+#upper_west {
+    max-width: 67%;
+    opacity: 60%;
+    top: 60px;
+    left: 175px;
+    z-index:10;
+    position: absolute;   
+}
+
+
+#add_neighbor {
+    position: absolute;   
+    top:278px;
+    left: 460px;
+    z-index: 200;
+}
+
+
+#button_acc {
+    position: absolute;   
+    top:58px;
+    left: 575px;
+    z-index: 200;
+
+
+}
+
+#button_listu {
+    position: absolute;
+    top: 460px;
+    left: 570px;
+    z-index:100;
+    background-color:rgb(75, 119, 119);
+
+}
+
+#items_listedu{
+    font-size: 18px;
+    position: absolute;
+    top: 478px;
+    left: 510px;
+    z-index:100;
+    background-color: rgb(233, 233, 233);
+}
+
+#item_infou {
+    position: absolute;
+    max-width: 730px;
+    top: 520px;
+    left: 215px;
+    z-index:200;
+    padding: 20px;
+    background-color:rgb(233, 233, 233);
+}
+
+
+#account_name {
+    position: absolute;
+    top: 55px;
+    left: 0px;
+    z-index:200;
+}
+
+#address_name {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    z-index:200;
+}
+
+
+#email_name {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    z-index:200;
+}
+
+#tt_email {
+    position: absolute;
+    width: 70px;
+    top: 150px;
+    left: 0px;
+    z-index:200;
+}
+
+#tt_home {
+    position: absolute;
+    width: 70px;
+    top: 80px;
+    left: 0px;
+    z-index:200;
+}
+
+#tt_name {
+    position: absolute;
+    width: 70px;
+    top: 3px;
+    left: 0px;
+    z-index:200;
+}
+
